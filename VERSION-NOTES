@@ -4,3 +4,15 @@ Version: 0.1.4
 Initial Early Access Launch!
 
 Current game features 3 playable factions with unique abilities. 
+
+
+09/06/2026
+Version 0.1.5
+
+Re-wrote the rules to be formatted more clearly.
+The die looks like a D8 now instead of a D6.
+Added feedback button to main menu.
+Added a clickable version number to main menu with patch notes.
+Added a match timer.
+Fixed some unit description text to be worded more clearly.
+It now cost 3 AP to resurrect a friendly unit, there is a 1 turn cooldown on resurrections.
