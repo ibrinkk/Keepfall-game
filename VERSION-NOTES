@@ -28,3 +28,12 @@ It now cost 3 AP to resurrect a friendly unit, there is a 1 turn cooldown on res
 -	Added music.
 -	Added a unit death animation.
 -	Fixed an issue where Plague, Wildfire, and Arcane could be cast repeatedly without the first cast expiring.
+
+
+0.1.7 Patch Notes
+09/08/2026
+-	Fixed an issue where the tutorial could not be completed on mobile devices.
+-	Keep HP was moved to the top left of the square to better see the entire keep.
+-	New effect: When a unit takes damage from wildfire, plague, and arcane there is a new effect that is shown to indicate the damage.
+-	Fixed an issue where Arcane was not highlighting squares properly.
+
