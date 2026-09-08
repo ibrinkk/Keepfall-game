@@ -16,3 +16,15 @@ Added a clickable version number to main menu with patch notes.
 Added a match timer.
 Fixed some unit description text to be worded more clearly.
 It now cost 3 AP to resurrect a friendly unit, there is a 1 turn cooldown on resurrections.
+
+
+0.1.6 Patch Notes
+09/07/2026
+-	Added a tutorial! View how the game plays instead of the only option of reading the rules.
+-	Adjusted the scaling for desktop and mobile to better fit the board and all elements on the screen.
+-	Slowed everything down, a lot of elements happened too fast and we hard to keep up with.
+-	Adjust AI difficulty to be better/smarter overall.
+-	Fixed multiple pop ups happening at the same time when a new turn began.
+-	Added music.
+-	Added a unit death animation.
+-	Fixed an issue where Plague, Wildfire, and Arcane could be cast repeatedly without the first cast expiring.
